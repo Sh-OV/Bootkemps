@@ -1,0 +1,15 @@
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\Programming_03.csproj.AssemblyReference.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\Programming_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\Programming_03.AssemblyInfoInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\Programming_03.AssemblyInfo.cs
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\Programming_03.csproj.CoreCompileInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\bin\Debug\net6.0\Programming_03.exe
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\bin\Debug\net6.0\Programming_03.deps.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\bin\Debug\net6.0\Programming_03.runtimeconfig.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\bin\Debug\net6.0\Programming_03.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\bin\Debug\net6.0\Programming_03.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\Programming_03.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\refint\Programming_03.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\Programming_03.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\Programming_03.genruntimeconfig.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Booktemps\Programming_03\obj\Debug\net6.0\ref\Programming_03.dll
