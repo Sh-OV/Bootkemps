@@ -1,7 +1,7 @@
 ﻿// Урок 4. Алгоритм «Сортировка выбором»
 
 Console.Clear();
-Console.WriteLine("Вариант сортироаки выбором числового массива:");
+Console.WriteLine("Вариант сортировки выбором числового массива:");
 Console.WriteLine("Введите количество элементов массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 // Заполнение массива
@@ -34,7 +34,7 @@ Console.WriteLine();
 Console.WriteLine("Конечный массив: [" + string.Join(", ", array) + "]");
 Console.WriteLine();
 
-Console.WriteLine("Вариант сортироаки выбором строкового массива:");
+Console.WriteLine("Вариант сортировки выбором строкового массива:");
 Console.WriteLine("Введите количество элементов массива: ");
 int m = Convert.ToInt32(Console.ReadLine());
 // Заполнение массива
