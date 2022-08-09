@@ -1,0 +1,15 @@
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\P_04_dz.csproj.AssemblyReference.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\P_04_dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\P_04_dz.AssemblyInfoInputs.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\P_04_dz.AssemblyInfo.cs
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\P_04_dz.csproj.CoreCompileInputs.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\bin\Debug\net6.0\P_04_dz.exe
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\bin\Debug\net6.0\P_04_dz.deps.json
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\bin\Debug\net6.0\P_04_dz.runtimeconfig.json
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\bin\Debug\net6.0\P_04_dz.dll
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\bin\Debug\net6.0\P_04_dz.pdb
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\P_04_dz.dll
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\refint\P_04_dz.dll
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\P_04_dz.pdb
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\P_04_dz.genruntimeconfig.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_04_dz\obj\Debug\net6.0\ref\P_04_dz.dll
