@@ -1,0 +1,15 @@
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\bin\Debug\net6.0\P_6.exe
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\bin\Debug\net6.0\P_6.deps.json
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\bin\Debug\net6.0\P_6.runtimeconfig.json
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\bin\Debug\net6.0\P_6.dll
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\bin\Debug\net6.0\P_6.pdb
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\P_6.csproj.AssemblyReference.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\P_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\P_6.AssemblyInfoInputs.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\P_6.AssemblyInfo.cs
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\P_6.csproj.CoreCompileInputs.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\P_6.dll
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\refint\P_6.dll
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\P_6.pdb
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\P_6.genruntimeconfig.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_6\obj\Debug\net6.0\ref\P_6.dll
