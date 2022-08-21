@@ -1,0 +1,15 @@
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\bin\Debug\net6.0\Client.exe
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\bin\Debug\net6.0\Client.deps.json
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\bin\Debug\net6.0\Client.dll
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\bin\Debug\net6.0\Client.pdb
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\Client.dll
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\refint\Client.dll
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\Client.pdb
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\1. Щёголева О.В\GB\Bootkemps\Programming\P_09\Client\obj\Debug\net6.0\ref\Client.dll
