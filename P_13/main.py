@@ -1,5 +1,8 @@
 import cv2
 
-img = cv2.imread('test.jpg')
-print(img.shape)
-img = cv2.resize(img, (500, 500))
+img = cv2.imread("test.jpg")
+print(img)
+#img = cv2.resize(img, (500, 500))
+
+cv2.imshow('Result', img)
+cv2.waitKey(0)
