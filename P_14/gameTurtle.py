@@ -1,8 +1,21 @@
-from turtle import *        # импорт всех методов и комманд
-from random import randint
-from typing import Any  # импорт только randint
+
+from ctypes.wintypes import RGB
+from turtle import *        # импорт всех методов и комманд turtle
+from random import *  # импорт только randint
+from time import *          # импорт всех методов и команд time
+from cgitb import text
+from typing import Text
+from tkinter.colorchooser import askcolor
 
 finish = 350                # дистанция гонки
+
+# НЕ УДАЛОСЬ СДЕЛАТЬ ВЫБОР ЦВЕТА РАНДОМНО :-(
+
+# for i in range(3):
+#     r = randint(0,255)
+#     g = randint(0,255)
+#     b = randint(0,255)
+#     rgb = [r,g,b]
 
 t1 = Turtle()               # создали объект класса черепахи
 t1.shape("turtle")          # поменяли форму объекта - создали форму черепахи
@@ -27,6 +40,7 @@ def razmetka():
         t.goto(-350 + i * 100, 250)
         t.pendown()
         t.goto(-350 + i * 100, - 250)
+        t.speed(0)
     t.hideturtle()
 
 razmetka()
@@ -44,11 +58,23 @@ def catch2(x, y):                                       # это обработ�
 t2.onclick(catch2)                                      # прикрепляем обработчик к событию нажатия на 2 черепашку 
 
 
+fin = Turtle()              # создали объект класса надписи
+fin.color('green')         # задали цвет надписи
+fin.penup()                 #  задали верх надписи
+fin.goto(-50, 300)            # задали координаты надписи
+
 
 while t1.xcor() < finish or t2.xcor() < finish:
-    t1.forward(randint(4, 8))
+    t1.forward(randint(24, 28))
     t1.right(randint(1, 3))
     t1.left(randint(1, 3))
-    t2.forward(randint(4, 8))
+    t2.forward(randint(24, 28))
     t2.left(randint(1, 3))
     t2.right(randint(1, 3))
+    if t1.xcor() >= finish and t2.xcor() >= finish:
+        if t1.xcor() > t2.xcor():
+            fin.write('Ура, победила красная черепашка', font = ('Arial', 16, 'normal'))
+            sleep(5)
+        else:
+            fin.write('Ура, победила синяя черепашка', font = ('Arial', 16, 'normal'))
+            sleep(5)
